@@ -1,6 +1,11 @@
 # transmogrifier-resources
 Resources and Tools for content migration with transmogrifier
 
+## Introduction
+
+Here's a good place to start:
+http://docs.plone.org/develop/import/index.html#introduction
+
 ## Useful transmogrifier blueprints
 
 * http://docs.plone.org/external/collective.transmogrifier/docs/source/sections.html
