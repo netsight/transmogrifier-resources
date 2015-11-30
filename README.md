@@ -12,3 +12,9 @@ http://docs.plone.org/develop/import/index.html#introduction
 * https://pypi.python.org/pypi/ftw.blueprints
 * https://pypi.python.org/pypi/plone.app.transmogrifier
 * https://collectivejsonmigrator.readthedocs.org/en/latest/
+
+### Dexterity support
+
+`plone.app.transmogrifier` only has an Archetypes schema updater, so if you are using Dexterity you will need:
+
+ * https://github.com/collective/transmogrify.dexterity
